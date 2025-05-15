@@ -1832,7 +1832,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: rgba(255, 255, 255, 0.95);
+		background: rgba(190, 190, 190, 0.95);
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -2249,6 +2249,15 @@ input, select, textarea {
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+	}
+
+	#myVideo {
+		position: fixed;
+  		right: 0;
+  		bottom: 0;
+  		min-width: 100%; 
+  		min-height: 100%;
+		opacity: 0.3;
 	}
 
 /* One */
