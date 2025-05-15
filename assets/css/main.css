@@ -1902,6 +1902,10 @@ input, select, textarea {
 				#header nav {
 					display: none;
 				}
+			
+			#logo {
+				width: 80%;
+			}
 
 		}
 
@@ -2259,6 +2263,7 @@ input, select, textarea {
   		min-height: 100%;
 		opacity: 0.7;
 		filter: brightness(25%);
+		object-fit: cover;
 	}
 
 /* One */
