@@ -2284,6 +2284,17 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	#services-list {
+		display: flex;
+		justify-content: center;
+		gap: 5em;
+	}
+
+	#services-list ul li {
+		list-style: circle;
+		font-weight: 600;
+	}
+
 /* Contact */
 
 	#contact {
