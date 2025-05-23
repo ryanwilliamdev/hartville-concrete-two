@@ -2104,9 +2104,9 @@ input, select, textarea {
 				width: 60%;
 			}
 
-			/* #myVideo {
+			#myVideo {
 				display: none;
-			} */
+			}
 		}
 
 		@media screen and (max-width: 736px) {
