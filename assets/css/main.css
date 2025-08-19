@@ -2154,6 +2154,10 @@ input, select, textarea {
 				padding: 3em 10px 3em 10px;
 			}
 
+			.main.style3 img {
+				width: 60%;
+			}
+
 		}
 
 		@media screen and (max-width: 480px) {
