@@ -982,6 +982,8 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			text-align: center;
+			margin: 0 auto;
 		}
 
 		.image.left {
@@ -996,7 +998,7 @@ input, select, textarea {
 
 			.image.centered img {
 				margin: 0 auto;
-				width: auto;
+				width: 100%;
 			}
 
 /* List */
@@ -1447,7 +1449,7 @@ input, select, textarea {
 		}
 
 			.gallery article .image {
-				margin: 0;
+				margin: auto;
 				display: block;
 			}
 
@@ -2095,6 +2097,8 @@ input, select, textarea {
 			.main.style2 .content {
 				width: 50%;
 			}
+
+			
 
 		}
 
